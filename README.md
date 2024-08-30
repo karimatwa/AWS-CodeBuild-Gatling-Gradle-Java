@@ -15,4 +15,3 @@ It includes:
 * sample [Simulation](https://gatling.io/docs/gatling/reference/current/general/concepts/#simulation) class,
 demonstrating sufficient Gatling functionality
 * proper source file layout
-# Gatling-AWS-CodeBuild
